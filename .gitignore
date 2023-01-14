@@ -2,4 +2,5 @@
 new_file.txt 
 __pycache__
 *.pyc
-**/http.server/settings.py
+**/settings
+./http_server/settings.py
